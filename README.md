@@ -17,11 +17,11 @@ To complete the assignment, I installed the full Anaconda package from https://w
 
 The packages are used in this repository (detailed below) are all part of the Anaconda package:
 
-Jupyter Notebook - Available via https://anaconda.org/anaconda/jupyter or https://jupyter.org/
-NumPy package - Available via https://anaconda.org/anaconda/numpy or https://numpy.org/
-Seaborn - Available via https://anaconda.org/anaconda/seaborn or https://seaborn.pydata.org/
-Matplotlib - Available via https://anaconda.org/anaconda/matplotlib or https://matplotlib.org/
-Pandas - Available via https://anaconda.org/anaconda/pandas or https://pandas.pydata.org/
+- Jupyter Notebook - Available via https://anaconda.org/anaconda/jupyter or https://jupyter.org/
+- NumPy package - Available via https://anaconda.org/anaconda/numpy or https://numpy.org/
+- Seaborn - Available via https://anaconda.org/anaconda/seaborn or https://seaborn.pydata.org/
+- Matplotlib - Available via https://anaconda.org/anaconda/matplotlib or https://matplotlib.org/
+- Pandas - Available via https://anaconda.org/anaconda/pandas or https://pandas.pydata.org/
 
 ## Running a Jupyter Notebook
 Jupyter is a Python package and does not require importation from Python packages. It is commonly run from the machine command line.
@@ -34,10 +34,10 @@ Once you have accessed the Jupyter Notebook interface, you can view the files in
 
 To close the notebook, terminate the browser tab by clicking the "X" in the top right corner. To stop the instance on the local server and shutdown the jupyter kernel, in the terminal/command line press control-C.
 
-The above steps should allow for the jupyter notebook to display automatically (assuming the prerequisites have been met). Jupyter Notebooks can also be rendered by pasting the URL presented in the terminal/command line on the site https://nbviewer.jupyter.org/
+The above steps should allow for the jupyter notebook to display automatically (assuming the prerequisites have been met). Jupyter Notebooks can also be rendered by pasting the URL presented in the terminal/command line on the site https://nbviewer.jupyter.org/ 
 
 ## Contents of Jupyter Notebook
 
 ## References
-[Jupyter - Installing Jupyter Notebook] (https://jupyter.readthedocs.io/en/latest/install.html)
-[Jupyter - nbviewer] (https://nbviewer.jupyter.org/)
+1. [Jupyter - Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+2. [Jupyter - nbviewer](https://nbviewer.jupyter.org/)

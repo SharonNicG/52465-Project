@@ -1,6 +1,6 @@
 # Programming for Data Analysis 52465-Project
 
-## Assignment Description
+## Project Description
 
 The project requires creating a data set by simulating a real-world phenomenon using Python and the numpy.random package. 
 Full details available [here](ProgDAProject.pdf).

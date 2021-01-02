@@ -28,7 +28,7 @@ Jupyter is a Python package and does not require importation from Python package
 
 To launch a Jupyter notebook, open your terminal/command line and navigate to the directory where you have saved the pulled jupyter notebook. By typing the command jupyter notebook into your terminal/command line, an instance of jupyter will be created on a local server.
 
-When jupyter notebook has been called from your terminal/command line a browser window should open showing the Jupyter Notebook interface. If it does not, you can copy the URL presented in the terminal/command line, and paste this into your browser's address bar.
+When jupyter notebook has been called from your terminal/command line, a browser window should open showing the Jupyter Notebook interface. If it does not, you can copy the URL presented in the terminal/command line, and paste this into your browser's address bar.
 
 Once you have accessed the Jupyter Notebook interface, you can view the files in the current directory. Clicking on the files will open them. Jupyter notebook files are identifiable by their notebook icon (within the Jupyter Notebook interface and by the file extension .ipynb
 
@@ -40,11 +40,10 @@ The above steps should allow for the jupyter notebook to display automatically (
 
 * Introduction
 * Breastfeeding
-** What is breastfeeding?
 * Age
 * Civil Status
 * Insurance Status
-* Initiate Breasfeeding
+* Initiate Breastfeeding
 * Dataset
 
 

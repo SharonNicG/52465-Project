@@ -38,6 +38,16 @@ The above steps should allow for the jupyter notebook to display automatically (
 
 ## Contents of Jupyter Notebook
 
+* Introduction
+* Breastfeeding
+** What is breastfeeding?
+* Age
+* Civil Status
+* Insurance Status
+* Initiate Breasfeeding
+* Dataset
+
+
 ## References
 1. [Jupyter - Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 2. [Jupyter - nbviewer](https://nbviewer.jupyter.org/)

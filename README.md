@@ -38,13 +38,15 @@ The above steps should allow for the jupyter notebook to display automatically (
 
 ## Contents of Jupyter Notebook
 
-* Introduction
-* Breastfeeding
-* Age
-* Civil Status
-* Insurance Status
-* Initiate Breastfeeding
-* Dataset
+- Introduction
+ - Breastfeeding
+  - What is breastfeeding and why is it important?
+ - Variables
+- Age
+- Civil Status
+- Health Insurance Status
+- Initiate Breastfeeding
+- Dataset
 
 
 ## References
